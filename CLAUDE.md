@@ -53,11 +53,14 @@ A única exceção é a autorização expressa: o usuário dizer, naquela conver
 
 Estas regras foram construídas ao longo do primeiro livro, corrigindo defeito por defeito. Elas valem para tudo o que for escrito aqui.
 
+Antes de qualquer entrega — capítulo novo, revisão de capítulo, texto avulso — rode a skill `human` para tirar a cara de texto gerado por IA. Só depois confira o texto contra as regras abaixo.
+
 **Proibido em prosa corrida:**
 
 - **Travessão em aposto.** É a marca mais visível de texto gerado por IA em português. Permitido apenas em entrada de referência ABNT (`ANPD — AGÊNCIA NACIONAL...`), em cabeçalho de artigo de minuta normativa e em enumeração dentro de apêndice.
 - **A construção `, e`.** Correta em inglês, ruim em português corrido. A única exceção é aposto com par de vírgulas: `o texto que sobrou, e que está em vigor, é este`.
 - **Aspas retas.** Só aspas curvas: `“ ”`.
+- **Dois-pontos como conectivo.** Usar dois-pontos para ligar duas orações completas, no lugar de `porque`, `pois` ou um ponto final, é hábito do inglês. Em excesso, é uma das marcas mais claras de texto gerado por IA em português. Reserve dois-pontos para enumeração, citação direta e aposto curto de um substantivo — nunca para explicar ou justificar a frase anterior.
 - **Muletas de ênfase:** `vale dizer`, `convém notar`, `é importante ressaltar`, `cabe destacar`.
 - **Vocabulário inflado:** crucial, fundamental, essencial, primordial, marco, ponto de virada, cenário em constante evolução.
 - **Fuga do verbo ser:** `atua como`, `configura-se como`, `funciona como`, `apresenta-se como`. Escreva `é`.
