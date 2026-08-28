@@ -10,7 +10,7 @@
 
 ## Comparativo de camadas
 
-**Situação verificada em 13 de agosto de 2026, nas páginas oficiais dos próprios fornecedores.**
+**Situação verificada em 13 de agosto de 2026 e reconferida em 28 de agosto de 2026, nas páginas oficiais dos próprios fornecedores.**
 
 Esta é a parte do livro que envelhece mais rápido. As condições mudam sem aviso e sem negociação. Reconfira na fonte antes de fundamentar qualquer decisão nesta tabela.
 
@@ -23,13 +23,15 @@ Esta é a parte do livro que envelhece mais rápido. As condições mudam sem av
 
 ### Quatro pontos que a tabela não mostra
 
-**O botão de avaliação fura o *opt-out*.** Em ChatGPT e Claude, clicar no *like* armazena a conversa inteira associada àquele feedback, que pode ser usada para treinamento mesmo com o treinamento desativado. Em planos corporativos da Anthropic, o administrador pode desligar a função para toda a organização. Isto é uum controle a exigir na contratação.
+**O botão de avaliação fura o *opt-out*.** Em ChatGPT e Claude, clicar no *like* armazena a conversa inteira associada àquele feedback, que pode ser usada para treinamento mesmo com o treinamento desativado. Em planos corporativos da Anthropic, o administrador pode desligar a função para toda a organização. Isto é um controle a exigir na contratação.
 
 **O Google avisa por escrito.** O aviso exibido ao usuário do Gemini pede que não sejam inseridas informações confidenciais que a pessoa não queira que um revisor humano veja ou que sejam usadas para melhorar os serviços. É uma advertência do próprio fornecedor, mais eficaz diante de um plenário do que qualquer análise de risco interna.
 
 **Apagar nem sempre apaga.** No Gemini, conversas que passaram por revisão humana ficam retidas por até três anos e não são excluídas quando o usuário apaga a própria atividade, porque foram desvinculadas da conta. Em geral, apagar um histórico não alcança modelos já treinados.
 
 **Conversa temporária é diferente de conversa apagada.** ChatGPT, Claude e Gemini oferecem modos temporários ou anônimos que não alimentam treinamento nem histórico. É o caminho menos ruim quando não há camada corporativa disponível. E continua não sendo autorização para inserir dado de processo.
+
+**Pendência de reconfirmação: Copilot consumidor.** A Microsoft lançou em 18 de agosto de 2026 uma nova versão do aplicativo Copilot e está migrando a documentação de privacidade para páginas novas. A camada corporativa (Microsoft 365 Copilot) permanece confirmada sem alteração: prompts, respostas e dados do Microsoft Graph não treinam modelos de fundação. Já a política de treinamento da camada de consumo, na versão nova, ainda não está detalhada nas páginas oficiais publicadas até esta reconferência. Reconferir na próxima revisão.
 
 ---
 
